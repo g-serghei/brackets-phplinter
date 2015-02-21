@@ -1,0 +1,34 @@
+{
+    "name": "phoenix.brackets.phplinter",
+    "version": "1.0.0",
+    "description": "This extension works using `php -l` command",
+    "title": "PHPLinter for Brackets",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/phoenix3008/brackets-phplinter.git"
+    },
+    "dependencies": {
+        "child_process": "*"
+    },
+    "keywords": [
+        "phplinter",
+        "phplint",
+        "brackets",
+        "php",
+        "validate php",
+        "linter",
+        "codequality",
+        "linting",
+        "code inspection",
+        "inspection"
+    ],
+    "engines": {
+        "brackets": ">=0.30.0"
+    },
+    "author": {
+        "name": "Serghei",
+        "email": "phoenix92@inbox.ru"
+    },
+    "license": "MIT"
+}
