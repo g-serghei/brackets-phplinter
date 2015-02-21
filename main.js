@@ -112,6 +112,8 @@ define(function (require, exports, module) {
                     message: message,
                     type: CodeInspection.Type.ERROR
                 }];
+            } else {
+                codeInspectionErrors = [];
             }
             CodeInspection.requestRun();
             callback(error);

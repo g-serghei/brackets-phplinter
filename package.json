@@ -1,6 +1,6 @@
 {
     "name": "phoenix.brackets.phplinter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "This extension works using `php -l` command",
     "title": "PHPLinter for Brackets",
     "scripts": {},
